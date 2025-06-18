@@ -50,21 +50,29 @@ Dgraph 是一个开源的、分布式的 原生图数据库（Native Graph Datab
 
 ## Dgraph 使用
 
-### 获取Zero节点集群拓扑状态
+### 验证dgraph-zero服务状态
 
 ![](images/img4.png)
 
-### 检查Zero节点健康状态
+### 验证dgraph-alpha服务状态
 
 ![](images/img5.png)
 
-### 获取Alpha节点集群拓扑状态
+### 获取Zero节点集群拓扑状态
 
 ![](images/img6.png)
 
-### 检查Alpha节点健康状态
+### 检查Zero节点健康状态
 
 ![](images/img7.png)
+
+### 获取Alpha节点集群拓扑状态
+
+![](images/img8.png)
+
+### 检查Alpha节点健康状态
+
+![](images/img9.png)
 
 ### 参考文档
 
