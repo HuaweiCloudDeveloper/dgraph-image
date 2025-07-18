@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[Dgraph-分布式图数据库]()
+- 镜像商品：[Dgraph-分布式图数据库](https://marketplace.huaweicloud.com/hidden/contents/bdfcaa10-f7dc-4727-8b80-e72531a74308#productid=OFFI1146358445895069696)
 - 镜像规格：Dgraph24.1.3-arm-v1.0
 - 预置环境：Dgraph24.1.3
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
