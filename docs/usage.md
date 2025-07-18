@@ -2,7 +2,7 @@
 
 # 商品链接
 
-[Dgraph-分布式图数据库]()
+[Dgraph-分布式图数据库](https://marketplace.huaweicloud.com/hidden/contents/bdfcaa10-f7dc-4727-8b80-e72531a74308#productid=OFFI1146358445895069696)
 
 # 商品说明
 
