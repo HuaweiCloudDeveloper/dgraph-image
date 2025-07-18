@@ -28,7 +28,7 @@
 9. Fine-Grained Permission Control: Implements field-level access control based on JWT or custom authentication logic (such as restricting users to query only their own friend data), meeting compliance requirements like GDPR.
 10. Real-Time Subscriptions (Live Queries): Clients can subscribe to graph data change events (such as newly added nodes or edges), with updates pushed in real-time to front-end applications, suitable for scenarios like social dynamics and fraud detection.
 
-This project offers pre-configured [**`Dgraph-Distributed graph database`**]()，images with Dgraph and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
+This project offers pre-configured [**`Dgraph-Distributed graph database`**](https://marketplace.huaweicloud.com/intl/hidden/contents/9bf64eee-7a67-4c0a-8364-10fbaec2f165)，images with Dgraph and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
 
 **Architecture Design:**
 
